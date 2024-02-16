@@ -1,4 +1,4 @@
-![logo](https://i3.wp.com/raw.githubusercontent.com/Quamagi/BreadcrumbsEnergy-Changer/main/logo.png)
+![logo](https://i3.wp.com/raw.githubusercontent.com/Quamagi/Energy-Changer/main/logo.png)
 
 # Gestor de Planes de Energía de Windows
 
